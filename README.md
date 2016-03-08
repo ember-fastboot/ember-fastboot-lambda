@@ -29,7 +29,7 @@ Handling environments/targets?
 
 ## Installation
 
-* `ember install ember-fastboot-Lambda`
+* `ember install ember-fastboot-lambda`
 
 ## Provisioning AWS
 
