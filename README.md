@@ -1,5 +1,7 @@
 # Ember FastBoot Lambda
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ember-fastboot/ember-fastboot-lambda.svg)](https://greenkeeper.io/)
+
 This addon automates deploying your Ember application to [AWS
 Lambda][aws-lambda]. Lambda is Amazon's platform for running JavaScript
 code without provisioning or managing servers.
